@@ -1,0 +1,15 @@
+{
+  "name": "s3HealthCheck",
+  "version": "0.0.1",
+  "description": "An app to check contents of an s3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "13scoobie@gmail.com",
+  "license": "NONE",
+  "devDependencies": {
+    "aws-sdk": "~2.3.3",
+    "restify": "~4.0.4"
+  }
+}
