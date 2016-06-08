@@ -1,5 +1,5 @@
 FROM node:latest
-MAINTAINER david.k.white@nordstrom.com
+MAINTAINER 13scoobie@gmail.com 
 
 # Set the work directory
 RUN mkdir -p /home/app/current
